@@ -11,4 +11,4 @@ List:
 ---
 let i = 'this is JS code';
 ---
-[link] {https://github.com}
+[link] (https://github.com)
