@@ -12,3 +12,4 @@ List:
 let i = 'this is JS code';
 ```
 [link](https://github.com)
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/195px-Markdown-mark.svg.png)
