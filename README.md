@@ -7,3 +7,4 @@ Course lessons
 List:
 * Item1
 * Item2
+  * Item1 blank
